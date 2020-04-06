@@ -1,0 +1,17 @@
+D:\Document\cours\Cross-plateforme\TP4\projectbase\bin\Debug\netstandard2.0\projectbase.deps.json
+D:\Document\cours\Cross-plateforme\TP4\projectbase\bin\Debug\netstandard2.0\projectbase.dll
+D:\Document\cours\Cross-plateforme\TP4\projectbase\bin\Debug\netstandard2.0\ref\projectbase.dll
+D:\Document\cours\Cross-plateforme\TP4\projectbase\bin\Debug\netstandard2.0\projectbase.pdb
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\projectbase.csprojAssemblyReference.cache
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\Views\Controls\RoundedImage.xaml.g.cs
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\Views\Exercice1.xaml.g.cs
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\Views\Exercice2.xaml.g.cs
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\Views\Exercice3.xaml.g.cs
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\Views\MyTabbedPage.xaml.g.cs
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\projectbase.AssemblyInfoInputs.cache
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\projectbase.AssemblyInfo.cs
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\projectbase.dll
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\ref\projectbase.dll
+D:\Document\cours\Cross-plateforme\TP4\projectbase\obj\Debug\netstandard2.0\projectbase.pdb

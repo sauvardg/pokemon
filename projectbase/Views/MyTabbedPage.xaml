@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="projectbase.MyTabbedPage" xmlns:local="clr-namespace:projectbase;assembly=projectbase">
+    <local:Exercice1 Title="Exercice 1"/>
+    <local:Exercice2 Title="Exercice 2"/>
+    <local:Exercice3 Title="Exercice 3"/>
+</TabbedPage>
